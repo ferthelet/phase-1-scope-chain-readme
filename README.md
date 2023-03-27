@@ -2,14 +2,14 @@
 
 ## Learning Goals
 
-- Create nested functions.
+- Create nested functions
 - Explain that the environment in which a function is created gets added to its
-  scope chain.
+  scope chain
 - Describe how the scope chain makes variables and functions declared in the
-  outer environment available within a nested function.
+  outer environment available within a nested function
 - Explain how the JavaScript engine makes a first pass over your code before
-  executing it.
-- Describe what happens during the _execution phase_ of the JavaScript runtime.
+  executing it
+- Describe what happens during the _execution phase_ of the JavaScript runtime
 
 ## Introduction
 
